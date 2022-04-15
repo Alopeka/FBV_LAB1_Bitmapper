@@ -51,6 +51,7 @@ architecture Behavioral of top is
     signal i_fval_intern: std_logic;
     signal i_lval_intern: std_logic;
     signal  i_video_intern: std_logic_vector ( 7 downto 0);
+    signal zwSP: std_logic_vector(7 downto 0);
 
 begin
     sync_input: process(i_clk)  -- sinnloser Prozess ? aber Ack hat gemeint... Ack fragen warum wir machen sollten
@@ -61,6 +62,20 @@ begin
                 i_video_intern <=  i_video;        
             end if; 
     end process sync_input;
+    
+    
+     calc: process(i_clk)  
+        begin 
+            if rising_edge(i_clk) then
+            
+                if i_fval_intern = '1' and i_lval_intern = '1' then
+                    DIG_OFFSET(i_video_intern, i_dig_offset, zwSP);
+                    o_video <= DIF_GAIN(zwSP, "00000101", 1, 8);
+                end if;
+            
+               
+            end if; 
+    end process calc;
 
 
 
