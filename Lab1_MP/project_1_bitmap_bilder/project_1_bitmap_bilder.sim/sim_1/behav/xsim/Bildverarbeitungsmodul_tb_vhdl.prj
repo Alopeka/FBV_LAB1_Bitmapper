@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" \
+"../../../../project_1_bitmap_bilder.srcs/sim_1/new/Bildverarbeitungsmodul_tb.vhd" \
+
+# Do not sort compile order
+nosort
