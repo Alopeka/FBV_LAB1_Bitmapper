@@ -31,6 +31,8 @@ use IEEE.NUMERIC_STD.ALL;
 --library UNISIM;
 --use UNISIM.VComponents.all;
 
+use work.fbv_pkg.all;
+
 entity top is
     Port ( i_dig_gain : in STD_LOGIC_VECTOR (7 downto 0);
            i_dig_offset : in STD_LOGIC_VECTOR (7 downto 0);

@@ -38,3 +38,6 @@ INFO: [IP_Flow 19-1704] No user IP repositories specified
 INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Programme_extern/Vivado/Vivado/2021.2/data/ip'.
 open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:09 . Memory (MB): peak = 1385.102 ; gain = 0.000
 update_compile_order -fileset sources_1
+close [ open {C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} w ]
+add_files {{C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd}}
+update_compile_order -fileset sources_1
