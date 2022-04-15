@@ -103,3 +103,105 @@ Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
 // Tcl Message: INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter. Current project path is 'C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder' 
 // Tcl Message: Scanning sources... Finished scanning sources 
 // Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Programme_extern/Vivado/Vivado/2021.2/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:09 . Memory (MB): peak = 1385.102 ; gain = 0.000 
+// Project name: project_1_bitmap_bilder; location: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder; part: xc7z020clg484-1
+dismissDialog("Open Project"); // bA
+// Tcl Message: update_compile_order -fileset sources_1 
+// PAPropertyPanels.initPanels (Bildverarbeitungsmodul.vhd) elapsed time: 0.2s
+// Elapsed time: 11 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top(Behavioral) (Bildverarbeitungsmodul.vhd)]", 1, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, top(Behavioral) (Bildverarbeitungsmodul.vhd)]", 1, false, false, false, false, false, true); // D - Double Click
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 3); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, Bildverarbeitungsmodul_tb(Behavioral) (Bildverarbeitungsmodul_tb.vhd)]", 5, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, Bildverarbeitungsmodul_tb(Behavioral) (Bildverarbeitungsmodul_tb.vhd)]", 5, true, false, false, false, false, true); // D - Double Click - Node
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// Elapsed time: 209 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 350, 346); // be
+// Elapsed time: 171 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 244, 360); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 27, 311); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 7, 300); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 66, 348); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 4, 329); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 1, 341); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 0, 365); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 136, 348); // be
+// Elapsed time: 135 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 292, 332); // be
+// Elapsed time: 194 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 100, 282); // be
+// Elapsed time: 23 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 75, 213); // be
+// Elapsed time: 12 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 131, 248); // be
+// Elapsed time: 15 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 114, 255); // be
+// Elapsed time: 14 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 200, 227); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 238, 240); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 251, 273); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 308, 262); // be
+// Elapsed time: 28 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 51, 309); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 353, 331); // be
+// Elapsed time: 17 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 437, 325); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 220, 333); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 213, 364); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 209, 350); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 651, 320); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 182, 348); // be
+// Elapsed time: 56 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 63, 219); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 345, 375); // be
+// Elapsed time: 52 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 164, 379); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 99, 388); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 99, 388, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 97, 388); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 165, 390); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 264, 392); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 174, 414); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 216, 390); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 216, 390, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 216, 390); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 315, 381); // be
+typeControlKey(null, null, 'z');
+// Elapsed time: 42 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 659, 272); // be
+// Elapsed time: 11 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 249, 276); // be
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 208, 274); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 240, 284); // be
+// Elapsed time: 22 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 235, 368); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 83, 396); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 70, 258); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 70, 258, false, false, false, false, true); // be - Double Click
+// Elapsed time: 10 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 172, 448); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 172, 448, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 89, 267); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 208, 453); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 60, 263); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 348, 304); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// [GUI Memory]: 129 MB (+7607kb) [00:19:34]
+// Elapsed time: 11 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 67, 426); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 64, 305); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 139, 390); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 176, 387); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 71, 331); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 96, 328); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 350, 428); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 559, 201); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 654, 95); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
