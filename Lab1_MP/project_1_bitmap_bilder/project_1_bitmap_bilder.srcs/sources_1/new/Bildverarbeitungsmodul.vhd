@@ -45,7 +45,20 @@ end top;
 
 architecture Behavioral of top is
 
+    
+    signal i_fval_intern: std_logic;
+    signal i_lval_intern: std_logic;
+    signal  i_video_intern: std_logic_vector ( 7 downto 0);
+
 begin
+    sync_input: process(i_clk)  -- sinnloser Prozess ? aber Ack hat gemeint... Ack fragen warum wir machen sollten
+        begin --Prozess zu Taltsynchronisation der synchronen Eingäng
+            if rising_edge(i_clk) then
+                i_fval_intern <= i_fval;
+                i_lval_intern <= i_lval;
+                i_video_intern <=  i_video;        
+            end if; 
+    end process sync_input;
 
 
 end Behavioral;

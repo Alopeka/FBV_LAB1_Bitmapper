@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Fri Apr 15 11:32:29 2022
+# Process ID: 16820
+# Current directory: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14816 C:\Users\micha\Desktop\7_Semester_SS\FBV\Labor1\GIT Repo LAB1\FBV_LAB1_Bitmapper\Lab1_MP\project_1_bitmap_bilder\project_1_bitmap_bilder.xpr
+# Log file: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/vivado.log
+# Journal file: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder\vivado.jou
+# Running On: DESKTOP-77G22T7, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 8315 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.xpr}
