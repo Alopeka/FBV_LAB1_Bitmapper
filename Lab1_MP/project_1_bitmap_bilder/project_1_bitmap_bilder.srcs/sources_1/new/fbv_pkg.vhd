@@ -81,7 +81,7 @@ begin
  if(divRes(divRes'left downto res_width) = 0) then
     return std_logic_vector(divRes(res_width-1 downto 0)); 
  else
-    return (others => '1');
+    return (divRes'left downto res_width => '1');
  end if;
  
 end DIF_GAIN;

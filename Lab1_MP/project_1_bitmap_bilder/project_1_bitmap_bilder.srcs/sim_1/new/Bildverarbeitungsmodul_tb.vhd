@@ -79,17 +79,16 @@ begin
 
 stimulus: process
     begin
-    i_dig_gain <= "00111000";
+    i_dig_gain <= "00011000";
     i_dig_offset <= "00000100";
-    i_fval <= '1';
-    i_clk <= '1';
-    wait for 5ns;
     i_clk <= '0';
+    wait for 5ns;
+    i_clk <= '1';
     wait for 5ns;
     end process;
     
 rd_proc: process
-    file inFile: text open READ_MODE is "xlena_sw.txt";
+    file inFile: text open READ_MODE is "C:\Users\Tarag\OneDrive\Dokumente\Studium\SS22\FbV\lena_sw.txt";
     variable rdLine: line;
     variable rows, columns, depth: positive;
     variable i: positive;
@@ -98,21 +97,48 @@ rd_proc: process
 begin
     readline(inFile, rdLine);
     read(rdLine, rows);
---    read(rdLine, columns);
---    read(rdLine, depth);
---    while not(endfile(inFile)) loop
---        readline(inFile, rdLine);
---        i_lval <= '1';
---        for i in 0 to columns-1 loop
---            read(rdLine, val);
---            i_video <= std_logic_vector(to_unsigned(val,depth));
---            wait until falling_edge(i_clk);
---        end loop; 
---        i_lval <= '0';
---    end loop;
+    read(rdLine, columns);
+    read(rdLine, depth);
+    while not(endfile(inFile)) loop
+        readline(inFile, rdLine);
+        i_lval <= '1';
+        i_fval <= '1';
+        for i in 0 to columns-1 loop
+            read(rdLine, val);
+            i_video <= std_logic_vector(to_unsigned(val,depth));
+            wait until falling_edge(i_clk);
+        end loop; 
+        i_lval <= '0';
+        wait for 200ns;
+    end loop;
+    i_fval <= '0';
     file_close(inFile);
     wait;
 
 end process rd_proc;
+
+wr_proc: process
+    file outfile: text open WRITE_MODE is "C:\Users\Tarag\OneDrive\Dokumente\Studium\SS22\FbV\lenaOut.txt";
+    variable buf: LINE; 
+    variable running: boolean := TRUE;
+    variable lval_old: std_logic := '0';
+begin
+    write(buf, string'("256 256 8"));
+    writeline(outfile, buf);
+    while(running) loop
+        wait until falling_edge(i_clk);
+        if(o_lval = '1' and o_fval = '1') then
+              write(buf, integer'image(to_integer(unsigned(o_video))));
+              write(buf, ' ');
+        end if;
+
+        if(o_lval < lval_old) then --falling edge funktioniert hier nicht weil oben wait until falling edge steht und deshalb die falling edge hier in der vergangenheit liget?
+            writeline(outfile, buf);
+        end if;
+        
+        lval_old := o_lval;
+    end loop;
+    wait;
+end process;
 
 end Behavioral;

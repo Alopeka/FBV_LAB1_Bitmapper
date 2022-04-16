@@ -11,4 +11,7 @@ Compiling package std.standard
 Compiling package std.textio
 Compiling package ieee.std_logic_1164
 Compiling package ieee.numeric_std
-ERROR: [XSIM 43-3294] Signal EXCEPTION_ACCESS_VIOLATION received.
+Compiling package xil_defaultlib.fbv_pkg
+Compiling architecture behavioral of entity xil_defaultlib.top [top_default]
+Compiling architecture behavioral of entity xil_defaultlib.bildverarbeitungsmodul_tb
+Built simulation snapshot Bildverarbeitungsmodul_tb_behav

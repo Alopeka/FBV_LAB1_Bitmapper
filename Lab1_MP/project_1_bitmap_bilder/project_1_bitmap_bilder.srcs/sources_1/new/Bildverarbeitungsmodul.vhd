@@ -53,14 +53,19 @@ architecture Behavioral of top is
     signal  i_video_intern: std_logic_vector ( 7 downto 0);
     signal zwSP: std_logic_vector(7 downto 0);
     signal outVideoTemp: std_logic_vector(7 downto 0);
-    
+    signal d_lval1, d_fval1: std_logic :='0';
 begin
     sync_input: process(i_clk)  -- sinnloser Prozess ? aber Ack hat gemeint... Ack fragen warum wir machen sollten
         begin --Prozess zu Taltsynchronisation der synchronen Eingäng
-            if rising_edge(i_clk) then
+            if falling_edge(i_clk) then
                 i_fval_intern <= i_fval;
                 i_lval_intern <= i_lval;
-                i_video_intern <=  i_video;        
+                i_video_intern <=  i_video; 
+                o_video <= outVideoTemp;
+                d_lval1 <= i_lval_intern;
+                o_lval <= d_lval1;
+                d_fval1 <= i_fval_intern;
+                o_fval <= d_fval1;       
             end if; 
     end process sync_input;
     
@@ -78,7 +83,7 @@ begin
             end if; 
     end process calc;
 
-    o_video <= outVideoTemp;
+    
 
 
 
