@@ -1,0 +1,781 @@
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2021.2 (win64) Build 3367213 Tue Oct 19 02:48:09 MDT 2021
+| Date         : Sat Apr 16 16:18:41 2022
+| Host         : DESKTOP-D1QSBU8 running 64-bit major release  (build 9200)
+| Command      : report_timing_summary -max_paths 10 -report_unconstrained -file top_timing_summary_routed.rpt -pb top_timing_summary_routed.pb -rpx top_timing_summary_routed.rpx -warn_on_violation
+| Design       : top
+| Device       : 7z020-clg484
+| Speed File   : -1  PRODUCTION 1.12 2019-11-22
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Timing Summary Report
+
+------------------------------------------------------------------------------------------------
+| Timer Settings
+| --------------
+------------------------------------------------------------------------------------------------
+
+  Enable Multi Corner Analysis               :  Yes
+  Enable Pessimism Removal                   :  Yes
+  Pessimism Removal Resolution               :  Nearest Common Node
+  Enable Input Delay Default Clock           :  No
+  Enable Preset / Clear Arcs                 :  No
+  Disable Flight Delays                      :  No
+  Ignore I/O Paths                           :  No
+  Timing Early Launch at Borrowing Latches   :  No
+  Borrow Time for Max Delay Exceptions       :  Yes
+  Merge Timing Exceptions                    :  Yes
+
+  Corner  Analyze    Analyze    
+  Name    Max Paths  Min Paths  
+  ------  ---------  ---------  
+  Slow    Yes        Yes        
+  Fast    Yes        Yes        
+
+
+------------------------------------------------------------------------------------------------
+| Report Methodology
+| ------------------
+------------------------------------------------------------------------------------------------
+
+Rule       Severity          Description                  Violations  
+---------  ----------------  ---------------------------  ----------  
+TIMING-17  Critical Warning  Non-clocked sequential cell  26          
+SYNTH-9    Warning           Small multiplier             9           
+
+Note: This report is based on the most recent report_methodology run and may not be up-to-date. Run report_methodology on the current design for the latest report.
+
+
+
+check_timing report
+
+Table of Contents
+-----------------
+1. checking no_clock (26)
+2. checking constant_clock (0)
+3. checking pulse_width_clock (0)
+4. checking unconstrained_internal_endpoints (50)
+5. checking no_input_delay (26)
+6. checking no_output_delay (8)
+7. checking multiple_clock (0)
+8. checking generated_clocks (0)
+9. checking loops (0)
+10. checking partial_input_delay (0)
+11. checking partial_output_delay (0)
+12. checking latch_loops (0)
+
+1. checking no_clock (26)
+-------------------------
+ There are 26 register/latch pins with no clock driven by root clock pin: i_clk (HIGH)
+
+
+2. checking constant_clock (0)
+------------------------------
+ There are 0 register/latch pins with constant_clock.
+
+
+3. checking pulse_width_clock (0)
+---------------------------------
+ There are 0 register/latch pins which need pulse_width check
+
+
+4. checking unconstrained_internal_endpoints (50)
+-------------------------------------------------
+ There are 50 pins that are not constrained for maximum delay. (HIGH)
+
+ There are 0 pins that are not constrained for maximum delay due to constant clock.
+
+
+5. checking no_input_delay (26)
+-------------------------------
+ There are 26 input ports with no input delay specified. (HIGH)
+
+ There are 0 input ports with no input delay but user has a false path constraint.
+
+
+6. checking no_output_delay (8)
+-------------------------------
+ There are 8 ports with no output delay specified. (HIGH)
+
+ There are 0 ports with no output delay but user has a false path constraint
+
+ There are 0 ports with no output delay but with a timing clock defined on it or propagating through it
+
+
+7. checking multiple_clock (0)
+------------------------------
+ There are 0 register/latch pins with multiple clocks.
+
+
+8. checking generated_clocks (0)
+--------------------------------
+ There are 0 generated clocks that are not connected to a clock source.
+
+
+9. checking loops (0)
+---------------------
+ There are 0 combinational loops in the design.
+
+
+10. checking partial_input_delay (0)
+------------------------------------
+ There are 0 input ports with partial input delay specified.
+
+
+11. checking partial_output_delay (0)
+-------------------------------------
+ There are 0 ports with partial output delay specified.
+
+
+12. checking latch_loops (0)
+----------------------------
+ There are 0 combinational latch loops in the design through latch input
+
+
+
+------------------------------------------------------------------------------------------------
+| Design Timing Summary
+| ---------------------
+------------------------------------------------------------------------------------------------
+
+    WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints     WPWS(ns)     TPWS(ns)  TPWS Failing Endpoints  TPWS Total Endpoints  
+    -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------     --------     --------  ----------------------  --------------------  
+        inf        0.000                      0                   58          inf        0.000                      0                   58           NA           NA                      NA                    NA  
+
+
+There are no user specified timing constraints.
+
+
+------------------------------------------------------------------------------------------------
+| Clock Summary
+| -------------
+------------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------------
+| Intra Clock Table
+| -----------------
+------------------------------------------------------------------------------------------------
+
+Clock             WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints     WPWS(ns)     TPWS(ns)  TPWS Failing Endpoints  TPWS Total Endpoints  
+-----             -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------     --------     --------  ----------------------  --------------------  
+
+
+------------------------------------------------------------------------------------------------
+| Inter Clock Table
+| -----------------
+------------------------------------------------------------------------------------------------
+
+From Clock    To Clock          WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints  
+----------    --------          -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------  
+
+
+------------------------------------------------------------------------------------------------
+| Other Path Groups Table
+| -----------------------
+------------------------------------------------------------------------------------------------
+
+Path Group    From Clock    To Clock          WNS(ns)      TNS(ns)  TNS Failing Endpoints  TNS Total Endpoints      WHS(ns)      THS(ns)  THS Failing Endpoints  THS Total Endpoints  
+----------    ----------    --------          -------      -------  ---------------------  -------------------      -------      -------  ---------------------  -------------------  
+
+
+------------------------------------------------------------------------------------------------
+| User Ignored Path Table
+| -----------------------
+------------------------------------------------------------------------------------------------
+
+Path Group    From Clock    To Clock    
+----------    ----------    --------    
+
+
+------------------------------------------------------------------------------------------------
+| Unconstrained Path Table
+| ------------------------
+------------------------------------------------------------------------------------------------
+
+Path Group    From Clock    To Clock    
+----------    ----------    --------    
+(none)                                    
+
+
+------------------------------------------------------------------------------------------------
+| Timing Details
+| --------------
+------------------------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------------
+Path Group:  (none)
+From Clock:  
+  To Clock:  
+
+Max Delay            58 Endpoints
+Min Delay            58 Endpoints
+--------------------------------------------------------------------------------------
+
+
+Max Delay Paths
+--------------------------------------------------------------------------------------
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        8.916ns  (logic 3.511ns (39.378%)  route 5.405ns (60.622%))
+  Logic Levels:           10  (CARRY4=5 IBUF=1 LUT2=1 LUT4=1 LUT6=2)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_CO[3])
+                                                      0.114     5.095 r  outVideoTemp_reg__4_i_3/CO[3]
+                         net (fo=1, routed)           0.000     5.095    outVideoTemp_reg__4_i_3_n_0
+    SLICE_X3Y21          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.317 r  outVideoTemp_reg_i_8/O[0]
+                         net (fo=2, routed)           0.746     6.063    outVideoTemp_reg_i_8_n_7
+    SLICE_X4Y19          LUT4 (Prop_lut4_I3_O)        0.325     6.388 r  outVideoTemp__0_i_12/O
+                         net (fo=4, routed)           0.818     7.206    outVideoTemp__0_i_12_n_0
+    SLICE_X1Y17          LUT6 (Prop_lut6_I0_O)        0.328     7.534 r  outVideoTemp__0_i_4/O
+                         net (fo=1, routed)           0.652     8.186    outVideoTemp__0_i_4_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_DI[1]_CO[3])
+                                                      0.507     8.693 r  outVideoTemp_reg__0_i_1/CO[3]
+                         net (fo=1, routed)           0.000     8.693    outVideoTemp_reg__0_i_1_n_0
+    SLICE_X1Y20          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.223     8.916 r  outVideoTemp_reg_i_2/O[0]
+                         net (fo=1, routed)           0.000     8.916    ARG[11]
+    SLICE_X1Y20          FDRE                                         r  outVideoTemp_reg/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__0/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        8.782ns  (logic 3.377ns (38.453%)  route 5.405ns (61.547%))
+  Logic Levels:           9  (CARRY4=4 IBUF=1 LUT2=1 LUT4=1 LUT6=2)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_CO[3])
+                                                      0.114     5.095 r  outVideoTemp_reg__4_i_3/CO[3]
+                         net (fo=1, routed)           0.000     5.095    outVideoTemp_reg__4_i_3_n_0
+    SLICE_X3Y21          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.317 r  outVideoTemp_reg_i_8/O[0]
+                         net (fo=2, routed)           0.746     6.063    outVideoTemp_reg_i_8_n_7
+    SLICE_X4Y19          LUT4 (Prop_lut4_I3_O)        0.325     6.388 r  outVideoTemp__0_i_12/O
+                         net (fo=4, routed)           0.818     7.206    outVideoTemp__0_i_12_n_0
+    SLICE_X1Y17          LUT6 (Prop_lut6_I0_O)        0.328     7.534 r  outVideoTemp__0_i_4/O
+                         net (fo=1, routed)           0.652     8.186    outVideoTemp__0_i_4_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_DI[1]_O[3])
+                                                      0.596     8.782 r  outVideoTemp_reg__0_i_1/O[3]
+                         net (fo=1, routed)           0.000     8.782    ARG[10]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__0/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__1/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        8.723ns  (logic 3.318ns (38.037%)  route 5.405ns (61.963%))
+  Logic Levels:           9  (CARRY4=4 IBUF=1 LUT2=1 LUT4=1 LUT6=2)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_CO[3])
+                                                      0.114     5.095 r  outVideoTemp_reg__4_i_3/CO[3]
+                         net (fo=1, routed)           0.000     5.095    outVideoTemp_reg__4_i_3_n_0
+    SLICE_X3Y21          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.317 r  outVideoTemp_reg_i_8/O[0]
+                         net (fo=2, routed)           0.746     6.063    outVideoTemp_reg_i_8_n_7
+    SLICE_X4Y19          LUT4 (Prop_lut4_I3_O)        0.325     6.388 r  outVideoTemp__0_i_12/O
+                         net (fo=4, routed)           0.818     7.206    outVideoTemp__0_i_12_n_0
+    SLICE_X1Y17          LUT6 (Prop_lut6_I0_O)        0.328     7.534 r  outVideoTemp__0_i_4/O
+                         net (fo=1, routed)           0.652     8.186    outVideoTemp__0_i_4_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_DI[1]_O[2])
+                                                      0.537     8.723 r  outVideoTemp_reg__0_i_1/O[2]
+                         net (fo=1, routed)           0.000     8.723    ARG[9]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__1/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__2/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        7.649ns  (logic 2.684ns (35.089%)  route 4.965ns (64.911%))
+  Logic Levels:           8  (CARRY4=3 IBUF=1 LUT2=1 LUT4=1 LUT6=2)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_O[2])
+                                                      0.239     5.220 r  outVideoTemp_reg__4_i_3/O[2]
+                         net (fo=6, routed)           1.126     6.346    outVideoTemp_reg__4_i_3_n_5
+    SLICE_X1Y17          LUT4 (Prop_lut4_I0_O)        0.302     6.648 r  outVideoTemp__0_i_16/O
+                         net (fo=2, routed)           0.650     7.298    outVideoTemp__0_i_16_n_0
+    SLICE_X1Y19          LUT6 (Prop_lut6_I2_O)        0.124     7.422 r  outVideoTemp__0_i_8/O
+                         net (fo=1, routed)           0.000     7.422    outVideoTemp__0_i_8_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_S[1]_O[1])
+                                                      0.227     7.649 r  outVideoTemp_reg__0_i_1/O[1]
+                         net (fo=1, routed)           0.000     7.649    ARG[8]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__2/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__3/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        7.217ns  (logic 3.086ns (42.758%)  route 4.131ns (57.242%))
+  Logic Levels:           8  (CARRY4=4 IBUF=1 LUT2=2 LUT6=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.203 r  outVideoTemp_reg__4_i_3/O[0]
+                         net (fo=2, routed)           0.942     6.145    outVideoTemp_reg__4_i_3_n_7
+    SLICE_X1Y18          LUT2 (Prop_lut2_I0_O)        0.299     6.444 r  outVideoTemp__4_i_7/O
+                         net (fo=1, routed)           0.000     6.444    outVideoTemp__4_i_7_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[1]_CO[3])
+                                                      0.550     6.994 r  outVideoTemp_reg__4_i_1/CO[3]
+                         net (fo=1, routed)           0.000     6.994    outVideoTemp_reg__4_i_1_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.223     7.217 r  outVideoTemp_reg__0_i_1/O[0]
+                         net (fo=1, routed)           0.000     7.217    ARG[7]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__3/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__4/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        7.084ns  (logic 2.953ns (41.683%)  route 4.131ns (58.317%))
+  Logic Levels:           7  (CARRY4=3 IBUF=1 LUT2=2 LUT6=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.203 r  outVideoTemp_reg__4_i_3/O[0]
+                         net (fo=2, routed)           0.942     6.145    outVideoTemp_reg__4_i_3_n_7
+    SLICE_X1Y18          LUT2 (Prop_lut2_I0_O)        0.299     6.444 r  outVideoTemp__4_i_7/O
+                         net (fo=1, routed)           0.000     6.444    outVideoTemp__4_i_7_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[1]_O[3])
+                                                      0.640     7.084 r  outVideoTemp_reg__4_i_1/O[3]
+                         net (fo=1, routed)           0.000     7.084    ARG[6]
+    SLICE_X1Y18          FDRE                                         r  outVideoTemp_reg__4/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__5/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        7.024ns  (logic 2.893ns (41.185%)  route 4.131ns (58.815%))
+  Logic Levels:           7  (CARRY4=3 IBUF=1 LUT2=2 LUT6=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.203 r  outVideoTemp_reg__4_i_3/O[0]
+                         net (fo=2, routed)           0.942     6.145    outVideoTemp_reg__4_i_3_n_7
+    SLICE_X1Y18          LUT2 (Prop_lut2_I0_O)        0.299     6.444 r  outVideoTemp__4_i_7/O
+                         net (fo=1, routed)           0.000     6.444    outVideoTemp__4_i_7_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[1]_O[2])
+                                                      0.580     7.024 r  outVideoTemp_reg__4_i_1/O[2]
+                         net (fo=1, routed)           0.000     7.024    ARG[5]
+    SLICE_X1Y18          FDRE                                         r  outVideoTemp_reg__5/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_gain[0]
+                            (input port)
+  Destination:            outVideoTemp_reg__6/D
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        6.671ns  (logic 2.540ns (38.073%)  route 4.131ns (61.927%))
+  Logic Levels:           7  (CARRY4=3 IBUF=1 LUT2=2 LUT6=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    U7                                                0.000     0.000 f  i_dig_gain[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_gain[0]
+    U7                   IBUF (Prop_ibuf_I_O)         0.915     0.915 f  i_dig_gain_IBUF[0]_inst/O
+                         net (fo=16, routed)          2.651     3.565    i_dig_gain_IBUF[0]
+    SLICE_X0Y21          LUT2 (Prop_lut2_I1_O)        0.148     3.713 r  outVideoTemp__4_i_28/O
+                         net (fo=1, routed)           0.539     4.252    outVideoTemp__4_i_28_n_0
+    SLICE_X3Y19          LUT6 (Prop_lut6_I1_O)        0.328     4.580 r  outVideoTemp__4_i_20/O
+                         net (fo=1, routed)           0.000     4.580    outVideoTemp__4_i_20_n_0
+    SLICE_X3Y19          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.401     4.981 r  outVideoTemp_reg__4_i_4/CO[3]
+                         net (fo=1, routed)           0.000     4.981    outVideoTemp_reg__4_i_4_n_0
+    SLICE_X3Y20          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.222     5.203 r  outVideoTemp_reg__4_i_3/O[0]
+                         net (fo=2, routed)           0.942     6.145    outVideoTemp_reg__4_i_3_n_7
+    SLICE_X1Y18          LUT2 (Prop_lut2_I0_O)        0.299     6.444 r  outVideoTemp__4_i_7/O
+                         net (fo=1, routed)           0.000     6.444    outVideoTemp__4_i_7_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[1]_O[1])
+                                                      0.227     6.671 r  outVideoTemp_reg__4_i_1/O[1]
+                         net (fo=1, routed)           0.000     6.671    ARG[4]
+    SLICE_X1Y18          FDRE                                         r  outVideoTemp_reg__6/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_offset[0]
+                            (input port)
+  Destination:            zwSP_reg[4]/R
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        5.709ns  (logic 2.295ns (40.205%)  route 3.414ns (59.795%))
+  Logic Levels:           6  (CARRY4=3 IBUF=1 LUT2=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    V5                                                0.000     0.000 r  i_dig_offset[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_offset[0]
+    V5                   IBUF (Prop_ibuf_I_O)         0.920     0.920 r  i_dig_offset_IBUF[0]_inst/O
+                         net (fo=1, routed)           1.778     2.699    i_dig_offset_IBUF[0]
+    SLICE_X0Y18          LUT2 (Prop_lut2_I1_O)        0.124     2.823 r  zwSP[3]_i_6/O
+                         net (fo=1, routed)           0.000     2.823    zwSP[3]_i_6_n_0
+    SLICE_X0Y18          CARRY4 (Prop_carry4_S[0]_CO[3])
+                                                      0.513     3.336 r  zwSP_reg[3]_i_2/CO[3]
+                         net (fo=1, routed)           0.000     3.336    zwSP_reg[3]_i_2_n_0
+    SLICE_X0Y19          CARRY4 (Prop_carry4_CI_CO[3])
+                                                      0.117     3.453 r  zwSP_reg[7]_i_5/CO[3]
+                         net (fo=1, routed)           0.000     3.453    zwSP_reg[7]_i_5_n_0
+    SLICE_X0Y20          CARRY4 (Prop_carry4_CI_CO[0])
+                                                      0.254     3.707 f  zwSP_reg[7]_i_4/CO[0]
+                         net (fo=10, routed)          0.997     4.704    p_0_in1_in
+    SLICE_X2Y21          LUT4 (Prop_lut4_I2_O)        0.367     5.071 r  zwSP[7]_i_1/O
+                         net (fo=8, routed)           0.639     5.709    zwSP[7]_i_1_n_0
+    SLICE_X2Y21          FDRE                                         r  zwSP_reg[4]/R
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_dig_offset[0]
+                            (input port)
+  Destination:            zwSP_reg[5]/R
+  Path Group:             (none)
+  Path Type:              Max at Slow Process Corner
+  Data Path Delay:        5.709ns  (logic 2.295ns (40.205%)  route 3.414ns (59.795%))
+  Logic Levels:           6  (CARRY4=3 IBUF=1 LUT2=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    V5                                                0.000     0.000 r  i_dig_offset[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_dig_offset[0]
+    V5                   IBUF (Prop_ibuf_I_O)         0.920     0.920 r  i_dig_offset_IBUF[0]_inst/O
+                         net (fo=1, routed)           1.778     2.699    i_dig_offset_IBUF[0]
+    SLICE_X0Y18          LUT2 (Prop_lut2_I1_O)        0.124     2.823 r  zwSP[3]_i_6/O
+                         net (fo=1, routed)           0.000     2.823    zwSP[3]_i_6_n_0
+    SLICE_X0Y18          CARRY4 (Prop_carry4_S[0]_CO[3])
+                                                      0.513     3.336 r  zwSP_reg[3]_i_2/CO[3]
+                         net (fo=1, routed)           0.000     3.336    zwSP_reg[3]_i_2_n_0
+    SLICE_X0Y19          CARRY4 (Prop_carry4_CI_CO[3])
+                                                      0.117     3.453 r  zwSP_reg[7]_i_5/CO[3]
+                         net (fo=1, routed)           0.000     3.453    zwSP_reg[7]_i_5_n_0
+    SLICE_X0Y20          CARRY4 (Prop_carry4_CI_CO[0])
+                                                      0.254     3.707 f  zwSP_reg[7]_i_4/CO[0]
+                         net (fo=10, routed)          0.997     4.704    p_0_in1_in
+    SLICE_X2Y21          LUT4 (Prop_lut4_I2_O)        0.367     5.071 r  zwSP[7]_i_1/O
+                         net (fo=8, routed)           0.639     5.709    zwSP[7]_i_1_n_0
+    SLICE_X2Y21          FDRE                                         r  zwSP_reg[5]/R
+  -------------------------------------------------------------------    -------------------
+
+
+
+
+
+Min Delay Paths
+--------------------------------------------------------------------------------------
+Slack:                    inf
+  Source:                 i_lval_intern_reg/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            zwSP_reg[6]/CE
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.432ns  (logic 0.209ns (48.430%)  route 0.223ns (51.570%))
+  Logic Levels:           2  (FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X0Y22          FDRE                         0.000     0.000 r  i_lval_intern_reg/C
+    SLICE_X0Y22          FDRE (Prop_fdre_C_Q)         0.164     0.164 r  i_lval_intern_reg/Q
+                         net (fo=3, routed)           0.122     0.286    i_lval_intern
+    SLICE_X1Y21          LUT4 (Prop_lut4_I3_O)        0.045     0.331 r  zwSP[7]_i_2/O
+                         net (fo=8, routed)           0.100     0.432    zwSP[7]_i_2_n_0
+    SLICE_X2Y20          FDRE                                         r  zwSP_reg[6]/CE
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_lval_intern_reg/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            zwSP_reg[7]/CE
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.432ns  (logic 0.209ns (48.430%)  route 0.223ns (51.570%))
+  Logic Levels:           2  (FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X0Y22          FDRE                         0.000     0.000 r  i_lval_intern_reg/C
+    SLICE_X0Y22          FDRE (Prop_fdre_C_Q)         0.164     0.164 r  i_lval_intern_reg/Q
+                         net (fo=3, routed)           0.122     0.286    i_lval_intern
+    SLICE_X1Y21          LUT4 (Prop_lut4_I3_O)        0.045     0.331 r  zwSP[7]_i_2/O
+                         net (fo=8, routed)           0.100     0.432    zwSP[7]_i_2_n_0
+    SLICE_X2Y20          FDRE                                         r  zwSP_reg[7]/CE
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 zwSP_reg[0]/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            outVideoTemp_reg__4/D
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.435ns  (logic 0.249ns (57.281%)  route 0.186ns (42.719%))
+  Logic Levels:           3  (CARRY4=1 FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X3Y18          FDRE                         0.000     0.000 r  zwSP_reg[0]/C
+    SLICE_X3Y18          FDRE (Prop_fdre_C_Q)         0.141     0.141 r  zwSP_reg[0]/Q
+                         net (fo=14, routed)          0.186     0.327    zwSP_reg_n_0_[0]
+    SLICE_X1Y18          LUT4 (Prop_lut4_I3_O)        0.045     0.372 r  outVideoTemp__4_i_5/O
+                         net (fo=1, routed)           0.000     0.372    outVideoTemp__4_i_5_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[3]_O[3])
+                                                      0.063     0.435 r  outVideoTemp_reg__4_i_1/O[3]
+                         net (fo=1, routed)           0.000     0.435    ARG[6]
+    SLICE_X1Y18          FDRE                                         r  outVideoTemp_reg__4/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_lval_intern_reg/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            zwSP_reg[4]/CE
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.528ns  (logic 0.209ns (39.600%)  route 0.319ns (60.400%))
+  Logic Levels:           2  (FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X0Y22          FDRE                         0.000     0.000 r  i_lval_intern_reg/C
+    SLICE_X0Y22          FDRE (Prop_fdre_C_Q)         0.164     0.164 r  i_lval_intern_reg/Q
+                         net (fo=3, routed)           0.122     0.286    i_lval_intern
+    SLICE_X1Y21          LUT4 (Prop_lut4_I3_O)        0.045     0.331 r  zwSP[7]_i_2/O
+                         net (fo=8, routed)           0.197     0.528    zwSP[7]_i_2_n_0
+    SLICE_X2Y21          FDRE                                         r  zwSP_reg[4]/CE
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_lval_intern_reg/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            zwSP_reg[5]/CE
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.528ns  (logic 0.209ns (39.600%)  route 0.319ns (60.400%))
+  Logic Levels:           2  (FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X0Y22          FDRE                         0.000     0.000 r  i_lval_intern_reg/C
+    SLICE_X0Y22          FDRE (Prop_fdre_C_Q)         0.164     0.164 r  i_lval_intern_reg/Q
+                         net (fo=3, routed)           0.122     0.286    i_lval_intern
+    SLICE_X1Y21          LUT4 (Prop_lut4_I3_O)        0.045     0.331 r  zwSP[7]_i_2/O
+                         net (fo=8, routed)           0.197     0.528    zwSP[7]_i_2_n_0
+    SLICE_X2Y21          FDRE                                         r  zwSP_reg[5]/CE
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_lval_intern_reg/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            outVideoTemp_reg/CE
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.532ns  (logic 0.209ns (39.256%)  route 0.323ns (60.744%))
+  Logic Levels:           2  (FDRE=1 LUT2=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X0Y22          FDRE                         0.000     0.000 r  i_lval_intern_reg/C
+    SLICE_X0Y22          FDRE (Prop_fdre_C_Q)         0.164     0.164 r  i_lval_intern_reg/Q
+                         net (fo=3, routed)           0.125     0.289    i_lval_intern
+    SLICE_X1Y21          LUT2 (Prop_lut2_I1_O)        0.045     0.334 r  outVideoTemp_i_1/O
+                         net (fo=8, routed)           0.198     0.532    zwSP1
+    SLICE_X1Y20          FDRE                                         r  outVideoTemp_reg/CE
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 zwSP_reg[0]/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            outVideoTemp_reg__3/D
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.541ns  (logic 0.355ns (65.655%)  route 0.186ns (34.345%))
+  Logic Levels:           4  (CARRY4=2 FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X3Y18          FDRE                         0.000     0.000 r  zwSP_reg[0]/C
+    SLICE_X3Y18          FDRE (Prop_fdre_C_Q)         0.141     0.141 r  zwSP_reg[0]/Q
+                         net (fo=14, routed)          0.186     0.327    zwSP_reg_n_0_[0]
+    SLICE_X1Y18          LUT4 (Prop_lut4_I3_O)        0.045     0.372 r  outVideoTemp__4_i_5/O
+                         net (fo=1, routed)           0.000     0.372    outVideoTemp__4_i_5_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.115     0.487 r  outVideoTemp_reg__4_i_1/CO[3]
+                         net (fo=1, routed)           0.000     0.487    outVideoTemp_reg__4_i_1_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_CI_O[0])
+                                                      0.054     0.541 r  outVideoTemp_reg__0_i_1/O[0]
+                         net (fo=1, routed)           0.000     0.541    ARG[7]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__3/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 zwSP_reg[0]/C
+                            (rising edge-triggered cell FDRE)
+  Destination:            outVideoTemp_reg__1/D
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.552ns  (logic 0.366ns (66.340%)  route 0.186ns (33.660%))
+  Logic Levels:           4  (CARRY4=2 FDRE=1 LUT4=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    SLICE_X3Y18          FDRE                         0.000     0.000 r  zwSP_reg[0]/C
+    SLICE_X3Y18          FDRE (Prop_fdre_C_Q)         0.141     0.141 r  zwSP_reg[0]/Q
+                         net (fo=14, routed)          0.186     0.327    zwSP_reg_n_0_[0]
+    SLICE_X1Y18          LUT4 (Prop_lut4_I3_O)        0.045     0.372 r  outVideoTemp__4_i_5/O
+                         net (fo=1, routed)           0.000     0.372    outVideoTemp__4_i_5_n_0
+    SLICE_X1Y18          CARRY4 (Prop_carry4_S[3]_CO[3])
+                                                      0.115     0.487 r  outVideoTemp_reg__4_i_1/CO[3]
+                         net (fo=1, routed)           0.000     0.487    outVideoTemp_reg__4_i_1_n_0
+    SLICE_X1Y19          CARRY4 (Prop_carry4_CI_O[2])
+                                                      0.065     0.552 r  outVideoTemp_reg__0_i_1/O[2]
+                         net (fo=1, routed)           0.000     0.552    ARG[9]
+    SLICE_X1Y19          FDRE                                         r  outVideoTemp_reg__1/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_fval
+                            (input port)
+  Destination:            i_fval_intern_reg/D
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.553ns  (logic 0.198ns (35.885%)  route 0.354ns (64.115%))
+  Logic Levels:           1  (IBUF=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    Y6                                                0.000     0.000 r  i_fval (IN)
+                         net (fo=0)                   0.000     0.000    i_fval
+    Y6                   IBUF (Prop_ibuf_I_O)         0.198     0.198 r  i_fval_IBUF_inst/O
+                         net (fo=1, routed)           0.354     0.553    i_fval_IBUF
+    SLICE_X0Y22          FDRE                                         r  i_fval_intern_reg/D
+  -------------------------------------------------------------------    -------------------
+
+Slack:                    inf
+  Source:                 i_video[0]
+                            (input port)
+  Destination:            i_video_intern_reg[0]/D
+  Path Group:             (none)
+  Path Type:              Min at Fast Process Corner
+  Data Path Delay:        0.570ns  (logic 0.209ns (36.625%)  route 0.361ns (63.375%))
+  Logic Levels:           1  (IBUF=1)
+
+    Location             Delay type                Incr(ns)  Path(ns)    Netlist Resource(s)
+  -------------------------------------------------------------------    -------------------
+    AB7                                               0.000     0.000 r  i_video[0] (IN)
+                         net (fo=0)                   0.000     0.000    i_video[0]
+    AB7                  IBUF (Prop_ibuf_I_O)         0.209     0.209 r  i_video_IBUF[0]_inst/O
+                         net (fo=1, routed)           0.361     0.570    i_video_IBUF[0]
+    SLICE_X0Y18          FDRE                                         r  i_video_intern_reg[0]/D
+  -------------------------------------------------------------------    -------------------
+
+
+
+
+

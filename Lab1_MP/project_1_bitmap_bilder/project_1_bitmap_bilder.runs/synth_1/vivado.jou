@@ -2,12 +2,12 @@
 # Vivado v2021.2 (64-bit)
 # SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
 # IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
-# Start of session at: Fri Apr 15 18:25:55 2022
-# Process ID: 5864
-# Current directory: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1
+# Start of session at: Sat Apr 16 16:17:18 2022
+# Process ID: 10092
+# Current directory: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1
 # Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
-# Log file: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1/top.vds
-# Journal file: C:/Users/micha/Desktop/7_Semester_SS/FBV/Labor1/GIT Repo LAB1/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1\vivado.jou
-# Running On: DESKTOP-77G22T7, OS: Windows, CPU Frequency: 1498 MHz, CPU Physical cores: 4, Host memory: 8315 MB
+# Log file: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1/top.vds
+# Journal file: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.runs/synth_1\vivado.jou
+# Running On: DESKTOP-D1QSBU8, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 34292 MB
 #-----------------------------------------------------------
 source top.tcl -notrace

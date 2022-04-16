@@ -65,21 +65,25 @@ begin
      end if;
 
     if (Offset(Offset'left) = '1' and calcRes(calcRes'left) = '0') then -- 0bit ausgeben
-        Result<= (others => '0'); 
+        Result <= (others => '0'); 
     end if;
 
 end DIG_OFFSET;
 
 function DIF_GAIN (iData: std_logic_vector; Factor: std_logic_vector; Decimals: positive; res_width: positive) return  std_logic_vector is
- variable zwSpeicher: unsigned(iData'length + Factor'length -1 downto 0);
+ variable multRes: unsigned(iData'length + Factor'length -1 downto 0);
+ variable divRes: unsigned(iData'length + Factor'length -1 downto 0);
 
 begin
 
- zwSpeicher := shift_right(unsigned(iData) * unsigned(Factor), Decimals );
- return std_logic_vector(zwSpeicher(zwSpeicher'left downto zwSpeicher'left - res_width+1)); 
-
-
-
+ multRes := unsigned(iData) * unsigned(Factor);
+ divRes := shift_right(multRes, Decimals);
+ if(divRes(divRes'left downto res_width) = 0) then
+    return std_logic_vector(divRes(res_width-1 downto 0)); 
+ else
+    return (others => '1');
+ end if;
+ 
 end DIF_GAIN;
 
 

@@ -25,6 +25,7 @@ use IEEE.STD_LOGIC_1164.ALL;
 -- Uncomment the following library declaration if using
 -- arithmetic functions with Signed or Unsigned values
 use IEEE.NUMERIC_STD.ALL;
+use std.textio.all;
 
 -- Uncomment the following library declaration if instantiating
 -- any Xilinx leaf cells in this code.
@@ -59,6 +60,7 @@ architecture Behavioral of Bildverarbeitungsmodul_tb is
     signal o_fval :  STD_LOGIC;
     signal o_lval :  STD_LOGIC;
         
+    
        
 begin
 
@@ -77,8 +79,40 @@ begin
 
 stimulus: process
     begin
-
-    wait;
+    i_dig_gain <= "00111000";
+    i_dig_offset <= "00000100";
+    i_fval <= '1';
+    i_clk <= '1';
+    wait for 5ns;
+    i_clk <= '0';
+    wait for 5ns;
     end process;
+    
+rd_proc: process
+    file inFile: text open READ_MODE is "xlena_sw.txt";
+    variable rdLine: line;
+    variable rows, columns, depth: positive;
+    variable i: positive;
+    variable val: integer;
+    
+begin
+    readline(inFile, rdLine);
+    read(rdLine, rows);
+--    read(rdLine, columns);
+--    read(rdLine, depth);
+--    while not(endfile(inFile)) loop
+--        readline(inFile, rdLine);
+--        i_lval <= '1';
+--        for i in 0 to columns-1 loop
+--            read(rdLine, val);
+--            i_video <= std_logic_vector(to_unsigned(val,depth));
+--            wait until falling_edge(i_clk);
+--        end loop; 
+--        i_lval <= '0';
+--    end loop;
+    file_close(inFile);
+    wait;
+
+end process rd_proc;
 
 end Behavioral;
