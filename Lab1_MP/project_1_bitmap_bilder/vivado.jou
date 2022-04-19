@@ -2,25 +2,64 @@
 # Vivado v2021.2 (64-bit)
 # SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
 # IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
-# Start of session at: Fri Apr 15 18:41:48 2022
-# Process ID: 1224
-# Current directory: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7408 C:\Users\Tarag\OneDrive\Dokumente\Studium\SS22\FbV\FBV_LAB1_Bitmapper\Lab1_MP\project_1_bitmap_bilder\project_1_bitmap_bilder.xpr
-# Log file: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/vivado.log
-# Journal file: C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder\vivado.jou
-# Running On: DESKTOP-D1QSBU8, OS: Windows, CPU Frequency: 3600 MHz, CPU Physical cores: 8, Host memory: 34292 MB
+# Start of session at: Tue Apr 19 15:29:46 2022
+# Process ID: 7184
+# Current directory: C:/Users/Labor/Desktop/laborFbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8384 C:\Users\Labor\Desktop\laborfbv\FBV_LAB1_Bitmapper\Lab1_MP\project_1_bitmap_bilder\project_1_bitmap_bilder.xpr
+# Log file: C:/Users/Labor/Desktop/laborFbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/vivado.log
+# Journal file: C:/Users/Labor/Desktop/laborFbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder\vivado.jou
+# Running On: DK-10, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 6, Host memory: 16908 MB
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/Tarag/OneDrive/Dokumente/Studium/SS22/FbV/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.xpr
+open_project C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.xpr
 update_compile_order -fileset sources_1
-reset_run synth_1
-launch_runs synth_1 -jobs 16
-wait_on_run synth_1
-launch_runs impl_1 -jobs 16
-wait_on_run impl_1
-copy_run -name synth_1_copy_1 [get_runs synth_1] 
-set_property board_part xilinx.com:zc702:part0:1.4 [current_project]
-reset_property board_connections [get_projects project_1_bitmap_bilder]
-set_property board_part xilinx.com:zc702:part0:1.4 [current_project]
-reset_property board_connections [get_projects project_1_bitmap_bilder]
-open_run impl_1
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+restart
+run 35 us
+restart
+run 35 us
+restart
+run 35 us
+restart
+run 35 us
+run 35 us
+restart
+run 35 us
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+restart
+run 35 us
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+restart
+run 400 us
+restart
+restart
+run 800 us
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+relaunch_sim
+run 800 us
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+restart
+run 800 us
+close_sim
+launch_simulation
+source Bildverarbeitungsmodul_tb.tcl
+restart
+run 800 us
+relaunch_sim
+run 800 us

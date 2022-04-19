@@ -1,13 +1,13 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: HSMA
+-- Engineers:Daniel ECHT , Michael PROBST 
 -- 
 -- Create Date: 14.04.2022 11:09:42
 -- Design Name: 
 -- Module Name: Bildverarbeitungsmodul_tb - Behavioral
 -- Project Name: 
 -- Target Devices: 
--- Tool Versions: 
+-- Tool Versions: vivado 21.2
 -- Description: 
 -- 
 -- Dependencies: 
@@ -15,7 +15,8 @@
 -- Revision:
 -- Revision 0.01 - File Created
 -- Additional Comments:
--- 
+-- --  SIMULATE: mit 800us simulieren 
+
 ----------------------------------------------------------------------------------
 
 
@@ -59,8 +60,9 @@ architecture Behavioral of Bildverarbeitungsmodul_tb is
     signal o_video : STD_LOGIC_VECTOR (7 downto 0);
     signal o_fval :  STD_LOGIC;
     signal o_lval :  STD_LOGIC;
-        
-    
+    signal o_fvalSync : STD_LOGIC;
+    signal o_lvalSync : STD_LOGIC;       
+    signal o_videoSync : STD_LOGIC_VECTOR (7 downto 0);
        
 begin
 
@@ -79,16 +81,16 @@ begin
 
 stimulus: process
     begin
-    i_dig_gain <= "00011000";
+    i_dig_gain <= "00100000";
     i_dig_offset <= "00000100";
-    i_clk <= '0';
-    wait for 5ns;
     i_clk <= '1';
+    wait for 5ns;
+    i_clk <= '0';
     wait for 5ns;
     end process;
     
 rd_proc: process
-    file inFile: text open READ_MODE is "C:\Users\Tarag\OneDrive\Dokumente\Studium\SS22\FbV\lena_sw.txt";
+    file inFile: text open READ_MODE is "lena_sw.txt";
     variable rdLine: line;
     variable rows, columns, depth: positive;
     variable i: positive;
@@ -106,7 +108,7 @@ begin
         for i in 0 to columns-1 loop
             read(rdLine, val);
             i_video <= std_logic_vector(to_unsigned(val,depth));
-            wait until falling_edge(i_clk);
+            wait until rising_edge(i_clk);
         end loop; 
         i_lval <= '0';
         wait for 200ns;
@@ -118,7 +120,7 @@ begin
 end process rd_proc;
 
 wr_proc: process
-    file outfile: text open WRITE_MODE is "C:\Users\Tarag\OneDrive\Dokumente\Studium\SS22\FbV\lenaOut.txt";
+    file outfile: text open WRITE_MODE is "lenaNeu.txt";
     variable buf: LINE; 
     variable running: boolean := TRUE;
     variable lval_old: std_logic := '0';
@@ -126,19 +128,33 @@ begin
     write(buf, string'("256 256 8"));
     writeline(outfile, buf);
     while(running) loop
-        wait until falling_edge(i_clk);
-        if(o_lval = '1' and o_fval = '1') then
-              write(buf, integer'image(to_integer(unsigned(o_video))));
+        wait until rising_edge(i_clk);
+        if(o_lvalSync = '1' and o_fvalSync = '1') then
+              write(buf, integer'image(to_integer(unsigned(o_videoSync))));
               write(buf, ' ');
         end if;
 
-        if(o_lval < lval_old) then --falling edge funktioniert hier nicht weil oben wait until falling edge steht und deshalb die falling edge hier in der vergangenheit liget?
+        if(o_lvalSync = '0' and lval_old = '1') then --falling edge funktioniert hier nicht weil oben wait until falling edge steht und deshalb die falling edge hier in der vergangenheit liget?
             writeline(outfile, buf);
         end if;
         
-        lval_old := o_lval;
+        lval_old := o_lvalSync;
     end loop;
     wait;
 end process;
+
+
+
+-- hier przess mit steuersignale neu zuweisen
+synSteuersignale: process(i_clk)
+
+begin
+    if rising_edge(i_clk) then
+        o_videoSync <= o_video;
+        o_lvalSync <= o_lval;
+        o_fvalSync <= o_fval;
+    end if;
+end process;
+
 
 end Behavioral;
