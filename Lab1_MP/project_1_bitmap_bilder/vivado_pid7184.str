@@ -3997,3 +3997,2619 @@ selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_l
 // TclEventType: WAVEFORM_MODEL_EVENT
 // TclEventType: WAVEFORM_UPDATE_WAVEFORM
 // TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 136 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 121 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 121 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:52 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 124 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 124 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:53 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:54 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:54 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:54 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 122 MB. Current time: 4/19/22, 5:23:54 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 1008 seconds
+selectTab((HResource) null, (HResource) null, "Sources", 1); // aL
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false, false, false, false, false, true); // D - Double Click
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 26 seconds
+selectCodeEditor("fbv_pkg.vhd", 131, 209); // be
+selectCodeEditor("fbv_pkg.vhd", 183, 213); // be
+selectCodeEditor("fbv_pkg.vhd", 183, 213, false, false, false, false, true); // be - Double Click
+// Elapsed time: 71 seconds
+selectCodeEditor("fbv_pkg.vhd", 726, 315); // be
+selectCodeEditor("fbv_pkg.vhd", 726, 315, false, false, false, false, true); // be - Double Click
+// Elapsed time: 66 seconds
+selectCodeEditor("fbv_pkg.vhd", 341, 378); // be
+// Elapsed time: 89 seconds
+selectCodeEditor("fbv_pkg.vhd", 351, 516); // be
+// Elapsed time: 40 seconds
+selectCodeEditor("fbv_pkg.vhd", 512, 522); // be
+selectCodeEditor("fbv_pkg.vhd", 519, 446); // be
+selectCodeEditor("fbv_pkg.vhd", 518, 446); // be
+selectCodeEditor("fbv_pkg.vhd", 514, 519); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 148 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul_tb.vhd", 0); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+// Elapsed time: 89 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 561, 409); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 561, 398); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 24 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 365, 107); // be
+typeControlKey(null, null, 'z');
+// Elapsed time: 42 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 1052, 396); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 14 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 324, 109); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 320, 99); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 311, 110); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 282, 109); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 282, 109, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 287, 147); // be
+// Elapsed time: 30 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 270, 139); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 270, 139, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 269, 142); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 267, 142); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 264, 212); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 303, 416); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 351, 85); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 152, 75); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 152, 75, false, false, false, false, true); // be - Double Click
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 257, 393); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 178, 394); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 20 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// Tcl Message: relaunch_sim 
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps relaunch_sim: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 6 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 2); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 8", 3); // m
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 124 MB. Current time: 4/19/22, 5:37:10 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 129 MB. Current time: 4/19/22, 5:37:10 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 123 MB. Current time: 4/19/22, 5:37:10 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 123 MB. Current time: 4/19/22, 5:37:11 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 135 MB. Current time: 4/19/22, 5:37:11 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 123 MB. Current time: 4/19/22, 5:37:11 PM CEST
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 16 seconds
+selectMenu("Radix"); // al
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+selectMenu("Radix"); // al
+selectMenu("Radix"); // al
+selectMenuItem((HResource) null, "Real Settings..."); // ao
+selectRadioButton(RDIResource.WaveformRealSettingsDialog_FIXED_POINT, "Fixed point"); // a
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "1"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "2"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "3"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "4"); // V
+selectButton(RDIResource.BaseDialog_APPLY, "Apply"); // a
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 124 MB. Current time: 4/19/22, 5:37:37 PM CEST
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+dismissDialog("Real Settings"); // h
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+selectMenu("Radix"); // al
+selectMenuItem((HResource) null, "Unsigned Decimal"); // ac
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 180 MB. Current time: 4/19/22, 5:37:45 PM CEST
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+selectMenuItem((HResource) null, "Unsigned Decimal"); // ac
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+// Elapsed time: 11 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 265, 146); // be
+// Elapsed time: 28 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 422, 281); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 548, 375); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 543, 371); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 232, 290); // be
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 2); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 2); // m
+selectCodeEditor("fbv_pkg.vhd", 711, 255); // be
+selectCodeEditor("fbv_pkg.vhd", 714, 246); // be
+selectCodeEditor("fbv_pkg.vhd", 714, 246, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 701, 244); // be
+selectCodeEditor("fbv_pkg.vhd", 701, 244); // be
+selectCodeEditor("fbv_pkg.vhd", 623, 248); // be
+selectCodeEditor("fbv_pkg.vhd", 684, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 702, 240); // be
+// Elapsed time: 11 seconds
+selectCodeEditor("fbv_pkg.vhd", 819, 171); // be
+selectCodeEditor("fbv_pkg.vhd", 822, 174); // be
+selectCodeEditor("fbv_pkg.vhd", 856, 211); // be
+// Elapsed time: 13 seconds
+selectCodeEditor("fbv_pkg.vhd", 107, 202); // be
+selectCodeEditor("fbv_pkg.vhd", 102, 205); // be
+selectCodeEditor("fbv_pkg.vhd", 85, 273); // be
+selectCodeEditor("fbv_pkg.vhd", 350, 271); // be
+selectCodeEditor("fbv_pkg.vhd", 341, 272); // be
+selectCodeEditor("fbv_pkg.vhd", 347, 207); // be
+selectCodeEditor("fbv_pkg.vhd", 519, 280); // be
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+typeControlKey(null, null, 'z');
+selectCodeEditor("fbv_pkg.vhd", 303, 280); // be
+selectCodeEditor("fbv_pkg.vhd", 275, 210); // be
+selectCodeEditor("fbv_pkg.vhd", 310, 209); // be
+selectCodeEditor("fbv_pkg.vhd", 113, 240); // be
+selectCodeEditor("fbv_pkg.vhd", 681, 213); // be
+// Elapsed time: 58 seconds
+selectCodeEditor("fbv_pkg.vhd", 556, 246); // be
+selectCodeEditor("fbv_pkg.vhd", 249, 227); // be
+selectCodeEditor("fbv_pkg.vhd", 249, 227, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 96, 242); // be
+selectCodeEditor("fbv_pkg.vhd", 96, 242, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 547, 246); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+// Elapsed time: 14 seconds
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+selectCodeEditor("fbv_pkg.vhd", 61, 274); // be
+selectCodeEditor("fbv_pkg.vhd", 84, 238); // be
+selectCodeEditor("fbv_pkg.vhd", 344, 91); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+selectCodeEditor("fbv_pkg.vhd", 92, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 98, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 107, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 98, 246); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+selectCodeEditor("fbv_pkg.vhd", 679, 210); // be
+selectCodeEditor("fbv_pkg.vhd", 679, 210, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 659, 208); // be
+selectCodeEditor("fbv_pkg.vhd", 673, 211); // be
+// Elapsed time: 20 seconds
+selectCodeEditor("fbv_pkg.vhd", 509, 220); // be
+selectCodeEditor("fbv_pkg.vhd", 509, 221, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 513, 226); // be
+selectCodeEditor("fbv_pkg.vhd", 479, 212); // be
+selectCodeEditor("fbv_pkg.vhd", 488, 234); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 76 seconds
+selectCodeEditor("fbv_pkg.vhd", 290, 209); // be
+selectCodeEditor("fbv_pkg.vhd", 308, 143); // be
+typeControlKey(null, null, 'z');
+selectCodeEditor("fbv_pkg.vhd", 529, 141); // be
+selectCodeEditor("fbv_pkg.vhd", 527, 141, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 507, 146); // be
+selectCodeEditor("fbv_pkg.vhd", 315, 144); // be
+selectCodeEditor("fbv_pkg.vhd", 315, 144); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+// Elapsed time: 43 seconds
+selectCodeEditor("fbv_pkg.vhd", 770, 209); // be
+selectCodeEditor("fbv_pkg.vhd", 485, 213); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 40 seconds
+selectCodeEditor("fbv_pkg.vhd", 577, 69); // be
+selectCodeEditor("fbv_pkg.vhd", 795, 71); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+// Elapsed time: 441 seconds
+selectCodeEditor("fbv_pkg.vhd", 213, 207); // be
+// Elapsed time: 59 seconds
+selectCodeEditor("fbv_pkg.vhd", 29, 210); // be
+selectCodeEditor("fbv_pkg.vhd", 511, 207); // be
+// Elapsed time: 40 seconds
+selectCodeEditor("fbv_pkg.vhd", 353, 221); // be
+// Elapsed time: 19 seconds
+selectCodeEditor("fbv_pkg.vhd", 62, 208); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+selectCodeEditor("fbv_pkg.vhd", 90, 265); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+selectCodeEditor("fbv_pkg.vhd", 278, 230); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+selectCodeEditor("fbv_pkg.vhd", 874, 271); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 79 seconds
+selectCodeEditor("fbv_pkg.vhd", 345, 469); // be
+selectCodeEditor("fbv_pkg.vhd", 338, 468); // be
+selectCodeEditor("fbv_pkg.vhd", 339, 468, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 376, 462); // be
+selectCodeEditor("fbv_pkg.vhd", 375, 462, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 342, 466); // be
+selectCodeEditor("fbv_pkg.vhd", 342, 466, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 340, 472); // be
+// Elapsed time: 184 seconds
+selectCodeEditor("fbv_pkg.vhd", 463, 382); // be
+// Elapsed time: 14 seconds
+selectCodeEditor("fbv_pkg.vhd", 465, 403); // be
+// Elapsed time: 125 seconds
+selectCodeEditor("fbv_pkg.vhd", 364, 464); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 81 seconds
+selectCodeEditor("fbv_pkg.vhd", 273, 463); // be
+selectCodeEditor("fbv_pkg.vhd", 273, 463, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 395, 470); // be
+selectCodeEditor("fbv_pkg.vhd", 395, 470, false, false, false, false, true); // be - Double Click
+// Elapsed time: 12 seconds
+selectCodeEditor("fbv_pkg.vhd", 282, 416); // be
+selectCodeEditor("fbv_pkg.vhd", 282, 416, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 377, 415); // be
+selectCodeEditor("fbv_pkg.vhd", 377, 415, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 243, 416); // be
+selectCodeEditor("fbv_pkg.vhd", 243, 416, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 237, 416); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 67 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: relaunch_sim 
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '1' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// Tcl Message: Time resolution is 1 ps ERROR: Array sizes do not match, left array has 12 elements, right array has 8 elements Time: 10 ns  Iteration: 1  Process: /Bildverarbeitungsmodul_tb/uut/calc   File: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd  HDL Line: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd:77 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 18 seconds
+selectButton(PAResourceOtoP.OpenFileAction_OK, "OK"); // a
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+dismissDialog("Unable to Open File"); // ag
+selectButton(PAResourceOtoP.OpenFileAction_OK, "OK"); // a
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+dismissDialog("Unable to Open File"); // ag
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run: Time (s): cpu = 00:00:01 ; elapsed = 00:00:13 . Memory (MB): peak = 1518.711 ; gain = 0.000 relaunch_xsim_kernel: Time (s): cpu = 00:00:01 ; elapsed = 00:00:15 . Memory (MB): peak = 1518.711 ; gain = 0.000 relaunch_sim: Time (s): cpu = 00:00:01 ; elapsed = 00:00:20 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 19 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Simulation, Run Simulation]", 10, false); // n
+selectMenuItem(PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL, "Run Behavioral Simulation"); // ao
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RUN_BEHAVIORAL
+selectButton("OptionPane.button", "Yes"); // JButton
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_CLOSE_WCFG
+selectButton("OptionPane.button", "Discard"); // JButton
+// TclEventType: SIMULATION_CLOSE_SIMULATION
+// Tcl Message: close_sim 
+// Tcl Message: INFO: [Simtcl 6-16] Simulation closed 
+dismissDialog("Close"); // bA
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: launch_simulation 
+// Tcl Message: Command: launch_simulation  
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM_LOG
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: LAUNCH_SIM
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds INFO: [USF-XSim-4] XSim::Simulate design INFO: [USF-XSim-61] Executing 'SIMULATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [USF-XSim-98] *** Running xsim 
+// Tcl Message:    with args "Bildverarbeitungsmodul_tb_behav -key {Behavioral:sim_1:Functional:Bildverarbeitungsmodul_tb} -tclbatch {Bildverarbeitungsmodul_tb.tcl} -log {simulate.log}" 
+// Tcl Message: INFO: [USF-XSim-8] Loading simulator feature 
+// TclEventType: SIMULATION_CREATE_SIMULATION_OBJECT
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// Tcl Message: Time resolution is 1 ps 
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+closeView(PAResourceOtoP.PAViews_PROJECT_SUMMARY, "Project Summary"); // v
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_OPEN_WCFG
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_PROTOCOL_INSTANCE_TREE
+// TclEventType: WAVEFORM_OPEN_WCFG
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 151 MB. Current time: 4/19/22, 6:06:25 PM CEST
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// Tcl Message: source Bildverarbeitungsmodul_tb.tcl 
+// Tcl Message: # set curr_wave [current_wave_config] # if { [string length $curr_wave] == 0 } { #   if { [llength [get_objects]] > 0} { #     add_wave / #     set_property needs_save false [current_wave_config] #   } else { #      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console." #   } # } # run 1000ns 
+// Tcl Message: ERROR: Array sizes do not match, left array has 12 elements, right array has 8 elements Time: 10 ns  Iteration: 1  Process: /Bildverarbeitungsmodul_tb/uut/calc   File: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd  HDL Line: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd:77 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceOtoP.OpenFileAction_OK, "OK"); // a
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+dismissDialog("Unable to Open File"); // ag
+selectButton(PAResourceOtoP.OpenFileAction_OK, "OK"); // a
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+dismissDialog("Unable to Open File"); // ag
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run: Time (s): cpu = 00:00:01 ; elapsed = 00:00:08 . Memory (MB): peak = 1518.711 ; gain = 0.000 xsim: Time (s): cpu = 00:00:02 ; elapsed = 00:00:10 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// Tcl Message: INFO: [USF-XSim-96] XSim completed. Design snapshot 'Bildverarbeitungsmodul_tb_behav' loaded. INFO: [USF-XSim-97] XSim simulation ran for 1000ns 
+// Tcl Message: launch_simulation: Time (s): cpu = 00:00:03 ; elapsed = 00:00:14 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'd' command handler elapsed time: 20 seconds
+dismissDialog("Run Simulation"); // e
+selectTab((HResource) null, (HResource) null, "Messages", 1); // aL
+selectTab((HResource) null, (HResource) null, "Log", 2); // aL
+selectTab((HResource) null, (HResource) null, "Messages", 1); // aL
+// Elapsed time: 26 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, IP Integrator, Open Block Design]", 7, false); // n
+// Elapsed time: 15 seconds
+selectCodeEditor("fbv_pkg.vhd", 242, 409); // be
+// Elapsed time: 17 seconds
+selectCodeEditor("fbv_pkg.vhd", 288, 436); // be
+selectCodeEditor("fbv_pkg.vhd", 435, 428); // be
+selectCodeEditor("fbv_pkg.vhd", 216, 375); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 20 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: relaunch_sim 
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps ERROR: Array sizes do not match, left array has 8 elements, right array has 0 elements Time: 10 ns  Iteration: 1  Process: /Bildverarbeitungsmodul_tb/uut/calc   File: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd  HDL Line: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd:81 relaunch_sim: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 6 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 18 seconds
+selectCodeEditor("fbv_pkg.vhd", 317, 483); // be
+selectCodeEditor("fbv_pkg.vhd", 315, 486); // be
+selectCodeEditor("fbv_pkg.vhd", 317, 480); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 17 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// Tcl Message: relaunch_sim 
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps relaunch_sim: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 6 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 11 seconds
+selectButton(PAResourceItoN.MsgView_CLEAR_MESSAGES_RESULTING_FROM_USER_EXECUTED, "Messages_cleanUpMessages"); // D
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 3); // m
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// Tcl Message: run 800 us 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:09:27 PM CEST
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(RDIResource.GraphicalView_ZOOM_FIT, "Waveform Viewer_zoom_fit"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 96, 226); // b
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 39, 241); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:09:44 PM CEST
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 9, 228); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 6:09:47 PM CEST
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 6:09:48 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 6:09:49 PM CEST
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 6:09:49 PM CEST
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 2); // m
+// Elapsed time: 10 seconds
+selectCodeEditor("fbv_pkg.vhd", 150, 298); // be
+// TclEventType: SIMULATION_ADD_BREAKPOINT
+// Tcl Message: add_bp {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} 51 
+// TclEventType: SIMULATION_ADD_BREAKPOINT
+// Tcl Message: add_bp {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} 76 
+// Elapsed time: 11 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART, "simulation_live_restart"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// Tcl Message: restart 
+// Tcl Message: INFO: [Simtcl 6-17] Simulation restarted 
+dismissDialog("Restart"); // bA
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 51 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 11 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 52 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 55 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 59 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 63 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 63 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" Line 79 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 76 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 77 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 78 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 81 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sim_1/new/Bildverarbeitungsmodul_tb.vhd" Line 109 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sim_1/new/Bildverarbeitungsmodul_tb.vhd" Line 110 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sim_1/new/Bildverarbeitungsmodul_tb.vhd" Line 111 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 51 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 52 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 55 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectCodeEditor("fbv_pkg.vhd", 317, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 329, 212); // be
+selectCodeEditor("fbv_pkg.vhd", 329, 212, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 330, 247); // be
+selectCodeEditor("fbv_pkg.vhd", 127, 242); // be
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 59 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 63 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 63 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" Line 79 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 76 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 77 
+selectCodeEditor("fbv_pkg.vhd", 44, 415); // be
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectCodeEditor("fbv_pkg.vhd", 19, 415); // be
+selectCodeEditor("fbv_pkg.vhd", 19, 415, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 108, 434); // be
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 78 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 19 seconds
+selectCodeEditor("fbv_pkg.vhd", 118, 445); // be
+selectCodeEditor("fbv_pkg.vhd", 156, 446); // be
+selectCodeEditor("fbv_pkg.vhd", 307, 455); // be
+selectCodeEditor("fbv_pkg.vhd", 314, 452); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 13 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// Tcl Message: relaunch_sim 
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: SIMULATION_ADD_BREAKPOINT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 51 relaunch_sim: Time (s): cpu = 00:00:01 ; elapsed = 00:00:06 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 6 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_DELETE_BREAKPOINT
+// Tcl Message: remove_bps -file {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} -line 76 
+// TclEventType: SIMULATION_DELETE_BREAKPOINT
+// Tcl Message: remove_bps -file {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} -line 51 
+// Elapsed time: 14 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 3); // m
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 126 MB. Current time: 4/19/22, 6:13:00 PM CEST
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: run 800 us 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(RDIResource.GraphicalView_ZOOM_FIT, "Waveform Viewer_zoom_fit"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 2); // m
+// TclEventType: SIMULATION_ADD_BREAKPOINT
+// Tcl Message: add_bp {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} 76 
+// Elapsed time: 13 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART, "simulation_live_restart"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// Tcl Message: restart 
+// Tcl Message: INFO: [Simtcl 6-17] Simulation restarted 
+dismissDialog("Restart"); // bA
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 76 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 77 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectCodeEditor("fbv_pkg.vhd", 186, 429); // be
+selectCodeEditor("fbv_pkg.vhd", 188, 435); // be
+selectCodeEditor("fbv_pkg.vhd", 188, 435, false, false, false, false, true); // be - Double Click
+selectCodeEditor("fbv_pkg.vhd", 188, 435); // be
+selectCodeEditor("fbv_pkg.vhd", 188, 435); // be
+selectTreeTable(PAResourceQtoS.SimulationScopesPanel_SIMULATE_SCOPE_TABLE, "Bildverarbeitungsmodul_tb ; Bildverarbeitungsmodul_tb(Behavioral) ; VHDL Entity", 0, "Bildverarbeitungsmodul_tb", 0, true); // c - Node
+// TclEventType: SIMULATION_REQUEST_SELECT_SCOPES
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+selectTab((HResource) null, (HResource) null, "Sources", 1); // aL
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false, false, false, false, false, true); // D - Double Click
+selectTab((HResource) null, (HResource) null, "Scope", 0); // aL
+selectTreeTable(PAResourceQtoS.SimulationScopesPanel_SIMULATE_SCOPE_TABLE, "uut ; top(Behavioral) ; VHDL Entity", 1, "top(Behavioral)", 1, false); // c
+// TclEventType: SIMULATION_REQUEST_SELECT_SCOPES
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+selectTreeTable(PAResourceQtoS.SimulationScopesPanel_SIMULATE_SCOPE_TABLE, "uut ; top(Behavioral) ; VHDL Entity", 1, "top(Behavioral)", 1, false, false, false, false, false, true); // c - Double Click
+// TclEventType: SIMULATION_REQUEST_SELECT_SCOPES
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_OPEN_SOURCE
+// Elapsed time: 16 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP, "simulation_live_step"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_STEP
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: step 
+// Tcl Message: Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 78 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 11 seconds
+selectCodeEditor("fbv_pkg.vhd", 154, 470); // be
+selectCodeEditor("fbv_pkg.vhd", 120, 469); // be
+selectCodeEditor("fbv_pkg.vhd", 154, 465); // be
+selectCodeEditor("fbv_pkg.vhd", 184, 465); // be
+// Elapsed time: 19 seconds
+selectCodeEditor("fbv_pkg.vhd", 161, 451); // be
+// Elapsed time: 19 seconds
+selectCodeEditor("fbv_pkg.vhd", 122, 462); // be
+selectCodeEditor("fbv_pkg.vhd", 160, 467); // be
+selectCodeEditor("fbv_pkg.vhd", 14, 453); // be
+selectCodeEditor("fbv_pkg.vhd", 14, 453); // be
+// Elapsed time: 11 seconds
+selectCodeEditor("fbv_pkg.vhd", 268, 366); // be
+selectCodeEditor("fbv_pkg.vhd", 268, 366, false, false, false, false, true); // be - Double Click
+// Elapsed time: 14 seconds
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'c'); // be
+typeControlKey((HResource) null, "fbv_pkg.vhd", 'v'); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 16 seconds
+selectCodeEditor("fbv_pkg.vhd", 161, 450); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 35 seconds
+selectCodeEditor("fbv_pkg.vhd", 312, 469); // be
+// Elapsed time: 15 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// TclEventType: DG_GRAPH_STALE
+dismissDialog("Save Simulation Sources"); // c
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: relaunch_sim 
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '1' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '3' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: SIMULATION_ADD_BREAKPOINT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps Stopped at time : 10 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 76 relaunch_sim: Time (s): cpu = 00:00:01 ; elapsed = 00:00:07 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 8 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectCodeEditor("fbv_pkg.vhd", 65, 230); // be
+selectCodeEditor("fbv_pkg.vhd", 65, 230, false, false, false, false, true); // be - Double Click
+// Elapsed time: 15 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 3); // m
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:17:16 PM CEST
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: Stopped at time : 20 ns : File "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" Line 76 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+closeView(PAResourceOtoP.PAViews_CODE, "Code"); // D
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+selectTab((HResource) null, (HResource) null, "Sources", 1); // aL
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, VHDL, xil_defaultlib, fbv_pkg.vhd]", 3, false, false, false, false, false, true); // D - Double Click
+// TclEventType: SIMULATION_DELETE_BREAKPOINT
+// Tcl Message: remove_bps -file {C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd} -line 76 
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: ERROR: Array sizes do not match, left array has 8 elements, right array has 12 elements Time: 20 ns  Iteration: 1  Process: /Bildverarbeitungsmodul_tb/uut/calc   File: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd  HDL Line: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd:79 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 2); // m
+selectButton(RDIResource.GraphicalView_ZOOM_FIT, "Waveform Viewer_zoom_fit"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART, "simulation_live_restart"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RESTART
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:17:40 PM CEST
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// Tcl Message: restart 
+// Tcl Message: INFO: [Simtcl 6-17] Simulation restarted 
+dismissDialog("Restart"); // bA
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_STOPPED
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+// Tcl Message: ERROR: Array sizes do not match, left array has 8 elements, right array has 12 elements Time: 20 ns  Iteration: 1  Process: /Bildverarbeitungsmodul_tb/uut/calc   File: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd  HDL Line: C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd:79 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Elapsed time: 11 seconds
+selectCodeEditor("fbv_pkg.vhd", 265, 477); // be
+selectCodeEditor("fbv_pkg.vhd", 268, 470); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 23 seconds
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH, "simulation_relaunch"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_RELAUNCH
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// Tcl Message: relaunch_sim 
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: Command: launch_simulation -step compile -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-2] XSim::Compile design INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// TclEventType: LAUNCH_SIM
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: "xvhdl --incr --relax -prj Bildverarbeitungsmodul_tb_vhdl.prj" INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/fbv_pkg.vhd" into library xil_defaultlib INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.srcs/sources_1/new/Bildverarbeitungsmodul.vhd" into library xil_defaultlib INFO: [VRFC 10-3107] analyzing entity 'top' 
+// Tcl Message: INFO: [USF-XSim-69] 'compile' step finished in '2' seconds 
+// Tcl Message: Command: launch_simulation -step elaborate -simset sim_1 -mode behavioral 
+// Tcl Message: INFO: [Vivado 12-12493] Simulation top is 'Bildverarbeitungsmodul_tb' 
+// Tcl Message: INFO: [Vivado 12-5682] Launching behavioral simulation in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' INFO: [SIM-utils-51] Simulation object is 'sim_1' INFO: [USF-XSim-3] XSim::Elaborate design INFO: [USF-XSim-61] Executing 'ELABORATE' step in 'C:/Users/Labor/Desktop/laborfbv/FBV_LAB1_Bitmapper/Lab1_MP/project_1_bitmap_bilder/project_1_bitmap_bilder.sim/sim_1/behav/xsim' 
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// Tcl Message: "xelab --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot Bildverarbeitungsmodul_tb_behav xil_defaultlib.Bildverarbeitungsmodul_tb -log elaborate.log" 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: INFO: [USF-XSim-69] 'elaborate' step finished in '2' seconds 
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_MODEL_ABOUT_TO_CLOSE
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: SIMULATION_MODEL_RELOADED
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_DELETE_ALL_BREAKPOINTS
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: Time resolution is 1 ps relaunch_sim: Time (s): cpu = 00:00:00 ; elapsed = 00:00:07 . Memory (MB): peak = 1518.711 ; gain = 0.000 
+// 'a' command handler elapsed time: 6 seconds
+dismissDialog("Relaunch Simulation"); // b
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+selectButton(PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN, "simulation_live_run_for_time"); // D
+// Run Command: PAResourceCommand.PACommandNames_SIMULATION_LIVE_RUN
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// TclEventType: SIMULATION_CLEAR_CURRENT_LINE
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: SIMULATION_OBJECT_TREE_RESTORED
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: SIMULATION_UPDATE_LATEST_TIME
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_DELAYED_MODEL_EVENT
+// TclEventType: SIMULATION_CURRENT_SCOPE_CHANGED
+// TclEventType: SIMULATION_CURRENT_STACK_CHANGED
+// TclEventType: SIMULATION_UPDATE_STACK_FRAMES
+// TclEventType: SIMULATION_CURRENT_STACK_FRAME_CHANGED
+// TclEventType: SIMULATION_UPDATE_LOCALS
+// TclEventType: SIMULATION_UPDATE_SCOPE_TREE
+// TclEventType: SIMULATION_UPDATE_STACKS
+// TclEventType: SIMULATION_UPDATE_OBJECT_TREE
+// TclEventType: SIMULATION_UPDATE_SIMULATION_STATE
+// Tcl Message: run 800 us 
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 2); // m
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:31 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:31 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:31 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 130 MB. Current time: 4/19/22, 6:18:32 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 134 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:33 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 130 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 132 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:34 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:35 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:36 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 133 MB. Current time: 4/19/22, 6:18:36 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:36 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:36 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:36 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 10 seconds
+selectButton(RDIResource.GraphicalView_ZOOM_OUT, "Waveform Viewer_zoom_out"); // D
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:38 PM CEST
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_OUT, "Waveform Viewer_zoom_out"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_OUT, "Waveform Viewer_zoom_out"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:18:39 PM CEST
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectButton(RDIResource.GraphicalView_ZOOM_IN, "Waveform Viewer_zoom_in"); // D
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// Elapsed time: 302 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "fbv_pkg.vhd", 3); // m
+selectCodeEditor("fbv_pkg.vhd", 59, 160); // be
+// Elapsed time: 32 seconds
+selectCodeEditor("fbv_pkg.vhd", 156, 385); // be
+selectCodeEditor("fbv_pkg.vhd", 452, 385); // be
+// Elapsed time: 36 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 406, 358); // be
+// Elapsed time: 11 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 407, 201); // be
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 12 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Untitled 9", 2); // m
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 5, 154); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:25:36 PM CEST
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 38, 106); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 219, 210); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:25:43 PM CEST
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+selectMenuItem((HResource) null, "Unsigned Decimal"); // ac
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:25:50 PM CEST
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+selectMenu("Radix"); // al
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+selectMenuItem((HResource) null, "Real Settings..."); // ao
+selectRadioButton(RDIResource.WaveformRealSettingsDialog_FIXED_POINT, "Fixed point"); // a
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "1"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "2"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "3"); // V
+setSpinner(RDIResource.WaveformRealSettingsDialog_BINARY_POINT, "4"); // V
+selectButton(RDIResource.BaseDialog_APPLY, "Apply"); // a
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+dismissDialog("Real Settings"); // h
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 128 MB. Current time: 4/19/22, 6:26:03 PM CEST
+selectMenu("Waveform Style"); // al
+selectMenu("Signal Color"); // al
+selectMenu("Radix"); // al
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+selectMenuItem((HResource) null, "Unsigned Decimal"); // ac
+// TclEventType: WAVEFORM_MODEL_EVENT
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_UPDATE_TITLE
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// Elapsed time: 17 seconds
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 222, 208); // b
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// HMemoryUtils.trashcanNow. Engine heap size: 1,495 MB. GUI used memory: 127 MB. Current time: 4/19/22, 6:26:24 PM CEST
+selectGraphicalView(RDIResource.RDIViews_WAVEFORM_VIEWER, 200, 231); // b
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_SELECTED_WAVE_OBJECT_NAMES
+// TclEventType: WAVEFORM_UPDATE_WAVEFORM
+// TclEventType: WAVEFORM_UPDATE_COMMANDS
+// TclEventType: WAVEFORM_MOVE_CURSOR
+// Elapsed time: 19 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Bildverarbeitungsmodul.vhd", 1); // m
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// Elapsed time: 63 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 220, 436); // be
+// Elapsed time: 138 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 229, 378); // be
+// Elapsed time: 17 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 192, 386); // be
+// Elapsed time: 19 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 179, 389); // be
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 481, 429); // be
+// Elapsed time: 18 seconds
+selectCodeEditor("Bildverarbeitungsmodul.vhd", 404, 319); // be

@@ -58,18 +58,14 @@ begin
     sync_input: process(i_clk)  -- sinnloser Prozess ist ok, war aber für die tb gedacht.
         begin --Prozess zu Taltsynchronisation der synchronen Eingäng
             if rising_edge(i_clk) then
-                i_fval_intern <= i_fval;
-                i_lval_intern <= i_lval;
-                i_video_intern <=  i_video; 
-                o_video <= outVideoTemp;
+
+                --o_video <= outVideoTemp;
                 
-                d_lval1 <= i_lval_intern; --Verzögern um 2 Tackte
-                d_lval2 <= d_lval1;
-                o_lval <= d_lval2;
+                d_lval1 <= i_lval; --Verzögern um 2 Tackt
+                o_lval <= d_lval1;
                
-                d_fval1 <= i_fval_intern;
-                d_fval2 <= d_fval1;
-                o_fval <= d_fval2;       
+                d_fval1 <= i_fval;
+                o_fval <= d_fval1;       
             end if; 
     end process sync_input;
     
@@ -78,10 +74,10 @@ begin
         begin 
             if rising_edge(i_clk) then
             
-                if i_fval_intern = '1' and i_lval_intern = '1' then
-                    DIG_OFFSET(i_video_intern, i_dig_offset, zwSP);
-                    outVideoTemp <= DIF_GAIN(zwSP, i_dig_gain, 4, 8);
-                end if;
+--                if i_fval_intern = '1' and i_lval_intern = '1' then --obsolet wegen lval und fval -> einfach drurchrechnen lassen
+                    DIG_OFFSET(i_video, i_dig_offset, zwSP);
+                    o_video <= DIF_GAIN(zwSP, i_dig_gain, 4, 8);
+  --              end if;
             
                
             end if; 

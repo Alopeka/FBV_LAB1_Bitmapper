@@ -48,40 +48,37 @@ begin
 
      calcRes := '0' & unsigned(iData) + unsigned(Offset); --Varibalnen := statt <=
 
-      if (Offset(Offset'left) = '0' and calcRes(calcRes'left) = '1' and Result'length = calcRes'length) then -- Todo +1bit ausgeben
-        Result<= std_logic_vector(calcRes);
+     if (calcRes(calcRes'left) = '0') then -- Kein underflow, Kein Overflow da MSB von res sign ist; ergebnis ausgeben
+        if(calcRes'length = Result'length) then --if: Verschachtelung erlaubt, da length zur Compiletime festgelegt nicht zur Runtimer
+            Result<= std_logic_vector(calcRes);  
+        else
+            Result<= std_logic_vector(calcRes(iData'left downto 0)); 
+        end if;
      end if;
 
-     if (Offset(Offset'left) = '0' and calcRes(calcRes'left) = '1' and Result'length /= calcRes'length) then -- Todo +1bit ausgeben
-        Result<= (others => '1');
-     end if;
-     
-     if (Offset(Offset'left) = '0' and calcRes(calcRes'left) = '0') then -- Todo iData lengt bit ausgeben
-        Result<= std_logic_vector(calcRes(iData'left downto 0));
-     end if;
-
-     if (Offset(Offset'left) = '1' and calcRes(calcRes'left) = '1') then -- i Data length bit ausgeben
-        Result<= std_logic_vector(calcRes(iData'left downto 0));
-     end if;
-
-    if (Offset(Offset'left) = '1' and calcRes(calcRes'left) = '0') then -- 0bit ausgeben
+    if (Offset(Offset'left) = '1' and calcRes(calcRes'left) = '1') then -- 0bit ausgebenErgebnis underflow
         Result <= (others => '0'); 
+    end if;
+    
+    if (Offset(Offset'left) = '0' and calcRes(calcRes'left) = '1') then -- 1bit ausgebenErgebnis Overflow "bitte 1 bit"
+     Result <= (others => '1'); 
+        
     end if;
 
 end DIG_OFFSET;
 
 function DIF_GAIN (iData: std_logic_vector; Factor: std_logic_vector; Decimals: positive; res_width: positive) return  std_logic_vector is
  variable multRes: unsigned(iData'length + Factor'length -1 downto 0);
- variable divRes: unsigned(iData'length + Factor'length -1 downto 0);
+ variable divRes: unsigned(iData'length + Factor'length -1 -Decimals downto 0);
 
 begin
 
  multRes := unsigned(iData) * unsigned(Factor);
- divRes := shift_right(multRes, Decimals);
+ divRes := multres((multRes'left) downto Decimals);
  if(divRes(divRes'left downto res_width) = 0) then
     return std_logic_vector(divRes(res_width-1 downto 0)); 
  else
-    return (divRes'left downto res_width => '1');
+    return (res_width-1 downto 0 => '1');
  end if;
  
 end DIF_GAIN;
